@@ -1,0 +1,8 @@
+package-as: MultiBuyer
+
+ignore:
+  - .github
+  - .gitignore
+  - .gitattributes
+  - CLAUDE.md
+  - README.md

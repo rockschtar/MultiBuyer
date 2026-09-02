@@ -1,0 +1,10 @@
+## Interface: 120100
+## Title: Multi Buyer
+## Notes: Shift-click vendor items to buy large amounts at once. Auto-skins with ElvUI.
+## Author: sh
+## Version: 1.0.0
+## SavedVariablesPerCharacter: MultiBuyerConfirm
+## OptionalDeps: ElvUI, EllesmereUI
+## IconTexture: Interface\Icons\INV_Misc_Coin_01
+
+MultiBuyer.lua
