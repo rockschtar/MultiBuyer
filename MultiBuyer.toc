@@ -4,6 +4,7 @@
 ## Author: sh
 ## Version: 1.0.0
 ## X-License: GPL-3.0
+## X-Curse-Project-ID: 1678968
 ## SavedVariablesPerCharacter: MultiBuyerConfirm
 ## OptionalDeps: ElvUI, EllesmereUI
 ## IconTexture: Interface\Icons\INV_Misc_Coin_01
